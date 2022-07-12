@@ -1,30 +1,30 @@
 [{
 "nama obat" : "paracetamol",
 "harga" : 15000,
-"desc" : "Obat untuk meredakan flu ringan dan sakit kepala"
+"desc" : "Obat untuk meredakan flu ringan dan sakit kepala",
 "photo" : "https://i.imgur.com/GenbVx9.jpeg"
 },
 {
 "nama obat" : "Acebutolol",
 "harga" : 10500,
-"desc" : "Obat untuk menurunkan tekanan darah"
-"photo" : "https://imgur.com/a/TtEsDwl"
+"desc" : "Obat untuk menurunkan tekanan darah",
+"photo" : "https://i.imgur.com/UGvybJz.jpg"
 },
 {
 "nama obat" : "Amoxcillin",
 "harga" : 4500,
-"desc" : "Obat untuk mengatasi infeksi"
-"photo" : "https://imgur.com/QUBkU40"
+"desc" : "Obat untuk mengatasi infeksi",
+"photo" : "https://i.imgur.com/C7kKNyU.jpg"
 },
 {
 "nama obat" : "Bacitracin",
 "harga" : 16600,
-"desc" : "Obat untuk meredakan flu ringan dan sakit kepala"
-"photo" : "https://imgur.com/g8sCTxT"
+"desc" : "Obat untuk meredakan flu ringan dan sakit kepala",
+"photo" : "https://i.imgur.com/tThFcPD.jpg"
 },
 {
 "nama obat" : "Biotin",
 "harga" : 67000,
-"desc" : "Vitamin untuk metabolisme protein, karbohidrat dan lemak"
-"photo" : "https://imgur.com/undefined"
+"desc" : "Vitamin untuk metabolisme protein, karbohidrat dan lemak",
+"photo" : "https://i.imgur.com/DqYm7LM.jpg"
 }]
